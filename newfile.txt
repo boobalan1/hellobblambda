@@ -1,2 +1,3 @@
 ram 4GB
-processor 2.0 GHz or faster or slower
+processor 2.0 GHz or faster or slower ....
+
